@@ -1,4 +1,8 @@
-# Diffracive-Neural-Network-PH-202
-Repository for Diffractive Neural Network Course project under PH202
+## PH202-Code (Handwritten Image Classification with Optical Neural Net Implementation)
 
-Install required dependencies to run the code.
+To run this experiment :
+
+Install all the dependencies from misc/req.txt
+
+Then run particular model from jupter-notebook file as per your wish.
+
